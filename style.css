@@ -17,3 +17,20 @@
 {
     font-size: 22px;
 }
+
+#copy_right
+{
+    width: 100%;
+    text-align: center;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+}
